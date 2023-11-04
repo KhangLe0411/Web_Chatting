@@ -3,4 +3,3 @@
 * Server: Node JS, Express JS
 Database: Mongo DB
 ##### Description: Use Socket.io for real time to communication. Configuration shard cluster to distribute data
-##### Note: Project is in progress
